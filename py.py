@@ -1,6 +1,31 @@
 printIn('Amirani');
 printIn('Amirani');
 printIn('Amirani');
-sssssss
+printIn('Amirani');
+printIn('Amirani');
+printIn('Amirani');
+
+printIn('Amirani');
+printIn('Amirani');
+printIn('Amirani');
+
+printIn('Amirani');
+printIn('Amirani');
+printIn('Amirani');
+
+printIn('Amirani');
+printIn('Amirani');
+printIn('Amirani');
+
+printIn('Amirani');
+printIn('Amirani');
+printIn('Amirani');
+
+printIn('Amirani');
+printIn('Amirani');
+printIn('Amirani');
+
+
+
 
 
